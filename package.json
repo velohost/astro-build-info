@@ -1,6 +1,6 @@
 {
   "name": "astro-build-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Static build metadata output for Astro sites",
   "homepage": "https://velohost.co.uk/plugins/astro-build-info/",
   "repository": {

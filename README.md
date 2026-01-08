@@ -191,4 +191,5 @@ MIT
 
 ## Author
 
-Built as part of the **Velohost Astro plugin suite**.
+Built and maintained by **Velohost**  
+https://velohost.co.uk/

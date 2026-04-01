@@ -177,7 +177,7 @@ v1 is intentionally minimal.
 
 ## License
 
-MIT
+MIT © Velohost UK Limited
 
 ---
 

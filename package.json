@@ -1,6 +1,6 @@
 {
   "name": "astro-build-info",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Static build metadata output for Astro sites",
   "homepage": "https://velohost.co.uk/plugins/astro-build-info/",
   "repository": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/velohost/astro-build-info/issues"
   },
   "license": "MIT",
+  "author": "Velohost UK Limited",
   "type": "module",
   "keywords": [
     "withastro",
@@ -34,7 +35,7 @@
     "build": "tsc"
   },
   "peerDependencies": {
-    "astro": "^4.0.0 || ^5.0.0"
+    "astro": "^4.0.0 || ^5.0.0 || ^6.0.0"
   },
   "devDependencies": {
     "@types/node": "^25.0.3",
